@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ 
+.bg-coffee-brown {
+  background-color: #4b3621;
+}
